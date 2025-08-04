@@ -17,3 +17,13 @@ This is a responsive Food Delivery Website built using **HTML**, **CSS**, and **
 - 🎨 Clean and modern UI with hover effects
 
 
+
+## 🛠️ Technologies Used
+
+- **HTML5** – for structure
+- **CSS3** – for styling and layout
+- **JavaScript** – for interactivity (cart toggle, simple form handling)
+- **Font Awesome** – for icons
+- **Google Maps Embed API** – to show location
+- **Icons8** – for social icons
+
